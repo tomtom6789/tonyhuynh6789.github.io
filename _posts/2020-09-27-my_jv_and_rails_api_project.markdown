@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My JV and Rails API project"
-date:       2020-09-27 05:13:55 +0000
+date:       2020-09-27 01:13:55 -0400
 permalink:  my_jv_and_rails_api_project
 ---
 
