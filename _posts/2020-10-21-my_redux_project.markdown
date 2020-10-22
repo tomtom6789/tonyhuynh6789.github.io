@@ -1,17 +1,18 @@
 ---
 layout: post
 title:      "My Redux project"
-date:       2020-10-21 22:17:07 +0000
+date:       2020-10-21 18:17:08 -0400
 permalink:  my_redux_project
 ---
 
 
-Finally, I completed the project I took idea from my previous project to build this Single Page Application. I design a simple site where users can add and sell their used or old laptops on the page. Besides, there are update and delete actions that gives users flexibility to make modify on the item they added.
+    For my redux project. I decided to create simple web application for selling computer where the user can list laptop for sale.  I will add functionality over time, but for right now I just allow user to add computer to list for sale. The users can see the content of each computer in their show pages. 
 
-At the early stage, I thought I would like time to build User Authentication which makes sense to have in my app, but I could not manage the time to have it done. However. I could meet all requirements. I started off with building rails API backend that I set up model, controller, relationship, and cors. Even more, I configured Serializer to format out JSON on the backend and frontend which benefits for data’s manipulation.
+	With this project, we were required to use React and Redux for the front-end and rails API back-end . React is an open-sourced Javascript library(not a framework), maintained by Facebook. It is used for building user interfaces and UI components. Redux is another Javascript library used to manage state. 
 
-Further, I initially made the GET request to the backend to fetch all laptops to the Dom. I developed the Post request to add new laptop after that. I continue adding Delete and Patch request to give users the delete and update options. Yet, I had faced a little challenge when I tried to turn my code into Object Orientation that I originally wrote all of my code in index.js, but I focused on moving each function at the time I could alleviate the error to solve. I set relationship between two models then.
+	Initially, I started off with building rails API that I used “rails g scaffold” to create model, controller, and routers, and cors. I also changed the port number for rails server to 3001 to not overlap frontend port. Indeed, I initially set up a reducer and action for frontend to fetch all data from the backend to redux store and show to the Dom. Once “Get” request to the backend was successful I continued create another fetch that send “POST” to backend to create the form. My fetch to create the new computer was successful fired and created a new laptop on the backend, but it was not displaying on the list instantly after created. However, I was able to work around to fixed it that I discovered I mistakenly did not return the added laptop to current list of laptops in reducer.
+	
+	Overall, I was struggle with this project more than my previous ones. I am interested to learn more and improve my knowledge with redux and react as I would like to improve this application to much further. 
 
-Overall, I would say the project was challenging, but it is advantageous that it wraps up the entire things we learned from the curriculum. Now I could build the backend and frontend web application which I had never I could.
 
 
