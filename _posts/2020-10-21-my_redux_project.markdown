@@ -6,7 +6,7 @@ permalink:  my_redux_project
 ---
 
 
-    For my redux project. I decided to create simple web application for selling computer where the user can list laptop for sale.  I will add functionality over time, but for right now I just allow user to add computer to list for sale. The users can see the content of each computer in their show pages. 
+   For my redux project. I decided to create simple web application for selling computer where the user can list laptop for sale.  I will add functionality over time, but for right now I just allow user to add computer to list for sale. The users can see the content of each computer in their show pages. 
 
 	With this project, we were required to use React and Redux for the front-end and rails API back-end . React is an open-sourced Javascript library(not a framework), maintained by Facebook. It is used for building user interfaces and UI components. Redux is another Javascript library used to manage state. 
 
