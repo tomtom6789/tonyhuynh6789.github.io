@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Redux Project"
+title:      "My Redux Project"
 date:       2020-10-21 18:17:08 -0400
 permalink:  my_redux_project
 ---
