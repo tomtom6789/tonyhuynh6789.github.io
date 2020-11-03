@@ -1,12 +1,9 @@
 ---
 layout: post
 title:      "My journey with Flatiron"
-date:       2020-11-03 05:28:40 +0000
+date:       2020-11-03 00:28:41 -0500
 permalink:  my_journey_with_flatiron
 ---
-
-
-Final Blog at Flatiron	
 
    I came to Flatiron with a little knowledge of coding, and I am leaving it with the ability of developing a full web application. I believe I made the right choice and took the opportunity to join Full-time Online Software Engineering course.  During the course, we have live lectures daily and one on one meeting with instructor weekly. Live Lectures were taking place in every morning which is very early compare to my time-zone, so I could not attend the live one regularly due I could not manage the time because of my kid.  Fortunately, all lectures were being recorded by the instructor to give the accessibility for students who does not have the chance catching the live lecture.
 	 
